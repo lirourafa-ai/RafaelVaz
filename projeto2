@@ -1,0 +1,34 @@
+
+---
+
+## 🟢 2. Projeto Web (HTML, CSS, JS)
+
+```markdown
+# 💻 Sistema Web Interativo
+
+## 📌 Descrição
+Aplicação web desenvolvida com HTML, CSS e JavaScript puro, com foco em interatividade e manipulação de dados no front-end.
+
+---
+
+## 🛠️ Tecnologias
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## ⚙️ Funcionalidades
+- Interface dinâmica  
+- Manipulação de dados  
+- Interações com o usuário  
+
+---
+
+## ▶️ Como executar
+Abra o arquivo `index.html` no navegador.
+
+---
+
+## 💡 Diferencial
+Aplicação desenvolvida sem frameworks, reforçando fundamentos essenciais do desenvolvimento web.
