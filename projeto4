@@ -1,0 +1,32 @@
+
+---
+
+## 🟢 4. Projeto SQL
+
+```markdown
+# 🗄️ Banco de Dados - SQL
+
+## 📌 Descrição
+Projeto de modelagem e criação de banco de dados utilizando MySQL, simulando um sistema real com estrutura relacional.
+
+---
+
+## 🛠️ Tecnologias
+- MySQL  
+
+---
+
+## ⚙️ Funcionalidades
+- Criação de tabelas  
+- Relacionamentos entre dados  
+- Consultas SQL  
+
+---
+
+## ▶️ Como executar
+Execute os scripts SQL no MySQL Workbench.
+
+---
+
+## 💡 Diferencial
+Aplicação de boas práticas em banco de dados e organização de estrutura relacional.
