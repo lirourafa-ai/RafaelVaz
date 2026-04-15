@@ -1,0 +1,27 @@
+# 🚀 API de Cadastro - Node.js
+
+## 📌 Descrição
+API desenvolvida com Node.js com foco em estruturação de rotas e organização de código backend. O projeto simula um sistema de cadastro, permitindo operações de criação, leitura, atualização e remoção de dados (CRUD).
+
+---
+
+## 🛠️ Tecnologias
+- Node.js  
+- JavaScript  
+- Express  
+
+---
+
+## ⚙️ Funcionalidades
+- Cadastro de usuários  
+- Listagem de dados  
+- Atualização de informações  
+- Exclusão de registros  
+
+---
+
+## ▶️ Como executar
+1. Clone o repositório  
+2. Instale as dependências:
+```bash
+npm install
