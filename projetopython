@@ -1,0 +1,22 @@
+# 🐍 Automação com Python
+
+## 📌 Descrição
+Projeto desenvolvido em Python com foco em automação de tarefas e aplicação de lógica de programação.
+
+---
+
+## 🛠️ Tecnologias
+- Python  
+
+---
+
+## ⚙️ Funcionalidades
+- Automação de processos  
+- Manipulação de dados  
+- Execução de tarefas repetitivas  
+
+---
+
+## ▶️ Como executar
+```bash
+python main.py
